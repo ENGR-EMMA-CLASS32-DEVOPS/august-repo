@@ -2,5 +2,4 @@ LINCOLN Navigator
 mercedes benz
 TESLA - MANUAL - NO AUTOMATED
 JAGUAR
-TOYOTA
-GWAGON
+
